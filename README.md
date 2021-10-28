@@ -1,0 +1,2 @@
+# twitter
+Natural language processing (NLP) is a hot topic in data science, and one of its most common applications is emotion analysis. From polling to creating entire marketing strategies, the field has revolutionized the way businesses work, which is why it's essential for every data scientist to be familiar with it. Thousands of text documents can be processed in seconds (as well as other features, including named entities, themes, themes, etc.) while doing the same task manually takes a team time. Today we're using Twitter data as a primer on sentiment analysis.
